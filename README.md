@@ -7,7 +7,11 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 - Java Development Kit (JDK) instalado na sua máquina
 - Apache Maven (opcional, se estiver usando o Maven para gerenciar o projeto)
 
-
+### Alunos
+ - José Gustavo da Silva Oliveira - RA:223126
+ - Matheus Henrique Correa Macarenhas - RA:200044
+ - João Vitor Candini - RA: 212032
+ 
 ## BDD
 
 Feature: Funcionalidades do Menu Inicial
